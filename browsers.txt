@@ -1,0 +1,8 @@
+rank name usage
+1 Chrome 66.12
+2 Safari 17.24
+3 Firefox 3.98
+4 SamsungInternet 3.18
+5 Edge 2.85
+6 Opera 2.08
+7 Brave `
